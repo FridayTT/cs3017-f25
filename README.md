@@ -38,6 +38,11 @@ we can add emphasis to text with *astreisks* to create italics or **bold** text 
 boyle ketogrilestirirken surekli olmaya calis yani bir yerde numara ile siralamaya calisiyrosan oyle kal... eger noktali yapicaksan digerlerinide noktali yapmaya gayret et 
 
 
+## Links to other places 
+[Google Search](https://google.com)
+
+[Class3](class.md)
+
 
 
 
