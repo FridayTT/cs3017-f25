@@ -1,12 +1,12 @@
 # cs3017-f25
 Basic Web Page for CS-3017
 
-# About this class 
+# About this class {#about}
 This class is about designing a good website. 
 
 This will nwow be a second paragraph on the site. 
 
-## This is a subsection
+## This is a subsection {#subsection-example}
 we can add emphasis to text with *astreisks* to create italics or **bold** text ***both***
 
 ### give a shot 
@@ -42,6 +42,8 @@ boyle ketogrilestirirken surekli olmaya calis yani bir yerde numara ile siralama
 [Google Search](https://google.com)
 
 [Class3](class3.md)
+
+[subsection example](#subsection-example)
 
 
 
