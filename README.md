@@ -41,7 +41,7 @@ boyle ketogrilestirirken surekli olmaya calis yani bir yerde numara ile siralama
 ## Links to other places 
 [Google Search](https://google.com)
 
-[Class3](class.md)
+[Class3](class3.md)
 
 
 
