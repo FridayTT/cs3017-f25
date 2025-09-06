@@ -14,7 +14,7 @@ you need to write a short paragraph to describe your hoobies!!
 ## My Favorite Quote 
 > Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.
 
-***Master Oogway*** *said from kung-fu panda movie*
+***Master Oogway*** *said from kung-fu panda movie.*
 
 ## Where to Find Me 
 + [My GiHub Profile](https://github.com/FridayTT)
