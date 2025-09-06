@@ -16,8 +16,8 @@ Hello.. I am a student-athlete....
 ***Master Oogway*** *said from kung-fu panda movie*
 
 ## Where to Find Me 
++ [My GiHub Profile](https://github.com/FridayTT)
+  + [All Documents Related With CS3017-f25](https://github.com/FridayTT/cs3017-f25)
 
-[My GiHub Profile](https://github.com/FridayTT)
-[](https://github.com/FridayTT/cs3017-f25)
-[image](https://www.pexels.com/photo/serene-beach-day-in-naples-florida-33686265/)
++ [Feel free with this Image](https://www.pexels.com/photo/serene-beach-day-in-naples-florida-33686265/)
  
