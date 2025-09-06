@@ -1,7 +1,8 @@
-# Emirhan Sen 
+# Emirhan Sen
 Hello.. I am a student-athlete....
 
 ## My Hobbies 
+you need to write a short paragraph to describe your hoobies!!
 + squash
 + listening music...
 
