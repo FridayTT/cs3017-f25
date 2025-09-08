@@ -1,19 +1,22 @@
 # Emirhan Sen
 
-Hello.. I am a student-athlete....
+Hello! My name is Emirhan Sen. I am planning to study computer science and I have a passion to design websites.
 
 ## My Hobbies 
 
-you need to write a short paragraph to describe your hoobies!!
+I have different hobbies that I like to do. Moreover, these hobbies makes me feel free and content.
 
 + squash
-+ listening music...
++ listening music
++ Playing piano
 
 ## My Top 3 Favorite Foods 
 
+I am obsessed with Turkish cuisine and I really miss to eat these foods.
+
 1. Lahmacun
 2. Menemen
-3. Rice 
+3. Etli ekmek 
 
 ## My Favorite Quote 
 
