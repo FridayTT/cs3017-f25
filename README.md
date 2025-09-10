@@ -45,6 +45,9 @@ boyle ketogrilestirirken surekli olmaya calis yani bir yerde numara ile siralama
 
 [subsection example](#subsection-example)
 
+# Example Image 
+![Many trees in a forest](trees.jpg)
+
 
 
 
